@@ -1,5 +1,8 @@
 Heroku Buildpack - Tesseract
 ===========================
+```
+Tambahan bahasa indonesia
+```
 Added the libraries to use Tesseract 3.02 on Heroku
 The buildpack supports several languages now.
 
